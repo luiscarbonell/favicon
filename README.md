@@ -1,0 +1,2 @@
+# favicon
+Platform agnostic favicon
